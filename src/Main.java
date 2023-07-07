@@ -12,7 +12,7 @@ public class Main {
 
         for (int i = 0; i < animali.size(); i++){
             System.out.println(animali.get(i));
-         //fsgh
+
         }
 
         animali.set(2,"cane");

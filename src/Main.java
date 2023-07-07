@@ -9,6 +9,7 @@ public class Main {
         animali.add("gazzella");
         animali.add("gatto");
         animali.add("elefante");
+        /f
 
         for (int i = 0; i < animali.size(); i++){
             System.out.println(animali.get(i));

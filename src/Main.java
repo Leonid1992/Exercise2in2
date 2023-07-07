@@ -1,3 +1,5 @@
+// Write code that replaces the word “cat” with the word “dog” wherever it shows up in a
+//sentence
 import java.util.ArrayList;
 
 public class Main {
@@ -9,7 +11,7 @@ public class Main {
         animali.add("gazzella");
         animali.add("gatto");
         animali.add("elefante");
-        /f
+
 
         for (int i = 0; i < animali.size(); i++){
             System.out.println(animali.get(i));
